@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Netdata DEV
-version: "2.2.8-DEV4"
+version: "2.2.8-DEV5"
 slug: netdata-dev
 description: Netdata - Monitor everything in real time
 url: "https://github.com/cryorig/netdata-homeassistant-addon"

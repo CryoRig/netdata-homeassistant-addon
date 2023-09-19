@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [2.2.8] - 2023-09-19
+
+- Update [Netdata 1.42.4](https://github.com/netdata/netdata/releases/tag/v1.42.4)
+
 ## [2.2.7] - 2023-09-12
 
 - Update [Netdata 1.42.3](https://github.com/netdata/netdata/releases/tag/v1.42.3)
