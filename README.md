@@ -1,3 +1,7 @@
+# Deprecation Notice
+This add-on is no longer maintained. A good alternative (which i myself am using) is [Felipecrs netdata-hass-addon](https://github.com/felipecrs/netdata-hass-addon).  
+If you used the Dev version, make sure to remove the existing netdata folder inside the config folder.
+
 ## Forked from [Gamma-Software](https://github.com/Gamma-Software/netdata-homeassistant-addon)
 ## It appears that Gamma-Software(Valentine Rudloff) no longer maintains his Repository  
 ## I will TRY to keep this updated as long as my free time allows
